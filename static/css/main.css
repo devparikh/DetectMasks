@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    text-size-adjust: 25;
+    background-color: grey
+}
+.button{
+    font:bold 15px Arial;
+    background-color: antiquewhite;
+    color: black;
+    padding: 2px 6px 2px 6px;
+    border: 1px solid black;
+
+
+}
